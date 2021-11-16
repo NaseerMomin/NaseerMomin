@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/naseermomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naseermomin" height="30" width="40" /></a>
 </p>
 
+<h2> Connect with me <img src='Images/handshake.gif' width="100px"> </h2>
+<p align="left">![handshake](https://user-images.githubusercontent.com/89272943/141947369-9a41f830-a8c1-40c6-8bba-62207ba73efb.gif)
+
+
 
 
 
