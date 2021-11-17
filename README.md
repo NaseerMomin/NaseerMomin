@@ -15,23 +15,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about AWS, DevOps, Automation, Interviews, Open Source ...
 - 📫 How to reach me: nasirofficialm@gmail.com 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nasir momin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasir momin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naseermomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naseermomin" height="30" width="40" /></a>
-</p>
+### Connect with me
+<img align="left" alt="NaseerMomin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 
 
 
- <h3 align="left">Languages and Tools:</h3>
-<p    
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p>
-<br/>
-<br/>
+
+
+
+
 
 
 
