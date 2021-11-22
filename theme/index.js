@@ -1,6 +1,6 @@
- radical: {
-    title_color: "fe428e",
-    icon_color: "f8d847",
-    text_color: "a9fef7",
-    bg_color: "141321",
+ dark: {
+    title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
  }
