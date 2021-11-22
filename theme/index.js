@@ -3,3 +3,4 @@
     icon_color: "f8d847",
     text_color: "a9fef7",
     bg_color: "141321",
+ }
